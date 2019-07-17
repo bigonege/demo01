@@ -28,4 +28,11 @@ Page({
       focus: true
     })
   },
+
+  bindViewTap: function(){
+    wx.navigateTo({
+      url: '../camera/camera'
+    })
+  }
+
 })

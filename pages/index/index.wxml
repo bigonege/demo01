@@ -14,7 +14,7 @@
   </swiper-item>
 </swiper>
 
-<image class="widget_arrow" mode="widthFix" src="/images/test.png"></image>
+<image bindtap="bindViewTap" class="widget_arrow" mode="widthFix" src="/images/test.png"></image>
 
 
 <image class="widget_arrow" src="/images/1.jpg"></image>
