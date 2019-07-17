@@ -1,0 +1,32 @@
+ <button class='btn1' open-type='openSetting'>
+    <image class='btnImg' src='../../images/11.png'></image>
+    <view>bb霜</view>
+ </button>
+  <button class='btn2' open-type='openSetting'>
+    <image class='btnImg' src='../../images/12.png'></image>
+    <view>保湿套装</view>
+ </button>
+  <button class='btn3' open-type='openSetting'>
+    <image class='btnImg' src='../../images/13.png'></image>
+    <view>吹风机</view>
+ </button>
+  <button class='btn4' open-type='openSetting'>
+    <image class='btnImg' src='../../images/14.png'></image>
+    <view>防晒隔离</view>
+ </button>
+  <button class='btn5' open-type='openSetting'>
+    <image class='btnImg' src='../../images/15.png'></image>
+    <view>化妆镜</view>
+ </button>
+  <button class='btn6' open-type='openSetting'>
+    <image class='btnImg' src='../../images/16.png'></image>
+    <view>精华液</view>
+ </button>
+  <button class='btn7' open-type='openSetting'>
+    <image class='btnImg' src='../../images/17.png'></image>
+    <view>美容机</view>
+ </button>
+ <button class='btn8' open-type='openSetting'>
+    <image class='btnImg' src='../../images/18.png'></image>
+    <view>散粉刷</view>
+ </button>

@@ -1,0 +1,23 @@
+<!--index.wxml-->
+<view class='page_row' bindtap="suo">  
+      <view class="search">  
+        <view class="search_arr">  
+          <icon class="searchcion" size='15' type='search' color="black"></icon>  
+          <input class="" disabled placeholder="搜索商品" placeholder-class="center" placeholder-style="color:#000;" value="{{searchValue}}"/> 
+        </view>
+      </view>   
+</view>
+<!-- banner -->
+<swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular='false'>
+  <swiper-item wx:for="{{imgUrls}}" wx:key="key">
+    <image mode="aspectFill" src="{{item}}" />
+  </swiper-item>
+</swiper>
+
+<image class="widget_arrow" mode="widthFix" src="/images/test.png"></image>
+
+
+<image class="widget_arrow" src="/images/1.jpg"></image>
+<image class="widget_arrow" src="/images/2.jpg"></image>
+<image class="widget_arrow" src="/images/3.jpg"></image>
+<image class="widget_arrow" src="/images/4.jpg"></image>
